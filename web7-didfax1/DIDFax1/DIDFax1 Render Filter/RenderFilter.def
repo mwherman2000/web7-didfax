@@ -1,0 +1,15 @@
+;
+;   File Name:
+;
+;      RenderFilter.def
+;
+;   Abstract:
+;
+;      Defines DLL exports for DIDFax1RenderFilter.dll
+;
+
+LIBRARY DIDFax1RenderFilter
+
+EXPORTS
+    DllGetClassObject PRIVATE
+    DllCanUnloadNow PRIVATE
