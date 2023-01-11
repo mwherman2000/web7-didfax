@@ -14,7 +14,7 @@
 *% V4 GPD-based printer drivers must include msxpsinc.GPD file
 *%**************************************************
 *Include:      "msxpsinc.gpd"
-*ModelName:    "Model name goes here"
+*ModelName:    "DIDFax 1000"
 *MasterUnits:  PAIR(1200, 1200)
 *PrinterType:  PAGE
 *MaxCopies:    1

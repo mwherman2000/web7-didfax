@@ -2,7 +2,7 @@
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
     <Filter Include="Driver Files">
-      <UniqueIdentifier>{67DA6AB6-6785-4CFE-B992-037D68949A14}</UniqueIdentifier>
+      <UniqueIdentifier>{0503716C-427D-4FA9-882F-D872035D93C3}</UniqueIdentifier>
       <Extensions>inf;inv;inx;mof;mc;</Extensions>
     </Filter>
   </ItemGroup>
